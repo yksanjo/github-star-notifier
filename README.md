@@ -1,6 +1,13 @@
-# GitHub Star Notifier
+# StarAlert ⭐
 
-Get notified when someone stars your repository, with context about who starred and why. Never miss a potential contributor or user.
+> **GitHub Star Notifier** - Get notified when someone stars your repository, with context about who starred and why. Never miss a potential contributor or user.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/yksanjo/StarAlert-)
+[![GitHub stars](https://img.shields.io/github/stars/yksanjo/StarAlert-?style=social)](https://github.com/yksanjo/StarAlert-)
+
+**StarAlert** sends you real-time notifications when someone stars your GitHub repository, including information about the stargazer. Perfect for open-source maintainers who want to engage with their community.
 
 ## Features
 
